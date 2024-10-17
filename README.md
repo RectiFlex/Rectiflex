@@ -1,10 +1,10 @@
-# Rectiflex
+# NewName
 
-Rectiflex is a work order management application that allows users to create, update, categorize, and search work orders efficiently. It provides a streamlined process for managing maintenance tasks, assigning technicians, and tracking progress.
+NewName is a work order management application that allows users to create, update, categorize, and search work orders efficiently. It provides a streamlined process for managing maintenance tasks, assigning technicians, and tracking progress.
 
 ## Overview
 
-Rectiflex utilizes Node.js for server-side operations, MongoDB as the database for storing work order information, and technologies like Express and Mongoose for seamless integration and data modeling. The project structure includes a React frontend for user interaction and a Node.js backend for handling business logic.
+NewName utilizes Node.js for server-side operations, MongoDB as the database for storing work order information, and technologies like Express and Mongoose for seamless integration and data modeling. The project structure includes a React frontend for user interaction and a Node.js backend for handling business logic.
 
 ## Features
 
