@@ -3,9 +3,9 @@
 I'm RectiFlex, a passionate developer with a love for coding and open-source contributions.
 
 - 🔭 I’m currently working on BlockFix SAAS & Verix Token.
-- 🌱 I’m currently learning Solidity.
+- 🌱 I’m currently building with Solidity.
 - 👯 I’m looking to collaborate on Blockchain Based Open source projects.
-- 📫 How to reach me: Jace@blockfix.app
+- 📫 How to reach me: Jacelander6@gmail.com
 
 ### GitHub Stats
 
