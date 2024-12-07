@@ -7,8 +7,7 @@ I'm RectiFlex, a full-stack developer with a love for coding and open-source con
 - 👯 I’m looking to collaborate on Blockchain Based Open source projects.
 - 📫 How to reach me: Jacelander6@gmail.com
 
-I like to build with
-
+Lets Build With:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,nodejs,ts,solidity,npm,vite)](https://skillicons.dev)
 
 ### GitHub Stats
