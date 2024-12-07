@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm RectiFlex, a passionate developer with a love for coding and open-source contributions.
+I'm RectiFlex, a full-stack developer with a love for coding and open-source contributions.
 
 - 🔭 I’m currently working on BlockFix SAAS & Verix Token.
 - 🌱 I’m currently building with Solidity.
