@@ -46,5 +46,3 @@ Feel free to reach out at **[Jacelander6@gmail.com](mailto:Jacelander6@gmail.com
 ![RectiFlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=RectiFlex&show_icons=true&theme=radical)  
 
 ---
-
-This approach lists the tech stack vertically, ensuring clear visibility. It’s easier to read while keeping the layout professional and eye-catching.
