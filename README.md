@@ -37,18 +37,7 @@ Feel free to reach out at **[Jacelander6@gmail.com](mailto:Jacelander6@gmail.com
 
 ### Tech Stack 🛠️  
 
-![JavaScript](https://skillicons.dev/icons?i=js)  
-![TypeScript](https://skillicons.dev/icons?i=ts)  
-![HTML](https://skillicons.dev/icons?i=html)  
-![CSS](https://skillicons.dev/icons?i=css)  
-![React](https://skillicons.dev/icons?i=react)  
-![Next.js](https://skillicons.dev/icons?i=nextjs)  
-![Node.js](https://skillicons.dev/icons?i=nodejs)  
-![Solidity](https://skillicons.dev/icons?i=solidity)  
-![Vite](https://skillicons.dev/icons?i=vite)  
-![NPM](https://skillicons.dev/icons?i=npm)  
-![Python](https://skillicons.dev/icons?i=python)  
-![TensorFlow](https://skillicons.dev/icons?i=tensorflow)  
+![JavaScript](https://skillicons.dev/icons?i=js)  ![TypeScript](https://skillicons.dev/icons?i=ts)  ![HTML](https://skillicons.dev/icons?i=html)  ![CSS](https://skillicons.dev/icons?i=css)  ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs)  ![Node.js](https://skillicons.dev/icons?i=nodejs)  ![Solidity](https://skillicons.dev/icons?i=solidity)  ![Vite](https://skillicons.dev/icons?i=vite)  ![NPM](https://skillicons.dev/icons?i=npm)  ![Python](https://skillicons.dev/icons?i=python)  ![TensorFlow](https://skillicons.dev/icons?i=tensorflow)  
 
 ---
 
