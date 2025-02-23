@@ -31,7 +31,7 @@ I’m eager to collaborate on **blockchain**, **AI**, and **mental health-focuse
 ---
 
 #### 📫 Let’s Connect:
-Feel free to reach out at **[Jacelander6@gmail.com](mailto:Jacelander6@gmail.com)**.  
+Feel free to reach out at **[Jace@onex.technology](mailto:Jace@onex.technology)**.  
 
 ---
 
